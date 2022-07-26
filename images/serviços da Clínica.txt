@@ -1,0 +1,26 @@
+Trabalho da Clínica
+
+*Clínica Geral
+*Pediatria
+*Ginecologia/Obstetra/Obstetrícia
+*Planeamento Familiar
+*Infertilidade
+*Neurologia
+*Endocrinologia
+*Gastroentorologia
+*Psicologia
+*Cardiologia{Electrocardiograma/Ecocardiograma/Mapa/Holter}
+*Ortopedia
+*Estomatologia
+*Otorrinolaringologia
+*Medicina Interna
+*Medicina de Trabalho
+*Pneumologia
+*Endocrinologia
+*Neurologia
+*Urologia
+*Protologia
+*Dermatologia
+*Nutrição
+*Peuricultura
+*Maternidade
